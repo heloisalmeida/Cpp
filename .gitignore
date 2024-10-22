@@ -1,0 +1,15 @@
+# Ignorar arquivos do macOS
+.DS_Store
+
+# Ignorar arquivos de compilação
+*.o
+*.out
+*.exe
+
+# Ignorar logs e arquivos temporários
+*.log
+*~
+
+# Ignorar Makefile backup
+Makefile.bak
+
